@@ -125,4 +125,3 @@ Machine Learning | Classification | Predictive Maintenance
 ## 📄 License
 
 This project is intended for educational and learning purposes.
-# machine_failure
